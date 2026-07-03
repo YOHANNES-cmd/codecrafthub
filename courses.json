@@ -6,5 +6,53 @@
     "target_date": "2026-08-01",
     "status": "In Progress",
     "created_at": "2026-07-02T14:24:32.774Z"
+  },
+  {
+    "id": 2,
+    "name": "Advanced JavaScript",
+    "description": "Advanced JavaScript full course",
+    "target_date": "2026-07-02",
+    "status": "In Progress",
+    "created_at": "2026-07-03T09:52:23.218Z"
+  },
+  {
+    "id": 3,
+    "name": "Node.js Fundamentals",
+    "description": "Learn Express and REST APIs",
+    "target_date": "2026-08-15",
+    "status": "Not Started",
+    "created_at": "2026-07-03T09:53:04.764Z"
+  },
+  {
+    "id": 4,
+    "name": "Advanced java Developer",
+    "description": "Advanced java Developer course",
+    "target_date": "2026-07-08",
+    "status": "Not Started",
+    "created_at": "2026-07-03T09:54:14.331Z"
+  },
+  {
+    "id": 5,
+    "name": "test course",
+    "description": "test featch data",
+    "target_date": "2026-07-03",
+    "status": "Not Started",
+    "created_at": "2026-07-03T10:07:31.805Z"
+  },
+  {
+    "id": 6,
+    "name": "Basics of HTML,CSS and JavaScript",
+    "description": "get basic understanding of front-end development.",
+    "target_date": "2026-07-14",
+    "status": "Not Started",
+    "created_at": "2026-07-03T10:15:14.194Z"
+  },
+  {
+    "id": 7,
+    "name": "FROM COURSE TEST",
+    "description": "TEST DESCRIPTION AND DADA",
+    "target_date": "2026-07-17",
+    "status": "Not Started",
+    "created_at": "2026-07-03T10:16:20.164Z"
   }
 ]
